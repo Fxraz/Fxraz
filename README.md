@@ -1,21 +1,24 @@
-# Hello! 😄
+## Hi there! 👋
 
-My name is Faraz.
-I am studying Aerospace Engineering.
+My name is Faraz, and welcome to my GitHub page!
 
-yes ok bye lol
+- 🌱 I’m currently studying Aerospace Engineering
+- ⚡ I'm passionate in UI/UX Design, Minecraft Server Development, and Aviation
+- 📫 Feel free to contact me by adding **fxraz** on Discord
+
+*I'm not often active on GitHub.*
 
 <!--
 **Fxraz/fxraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
