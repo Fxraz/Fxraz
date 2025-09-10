@@ -1,4 +1,9 @@
-### im faraz... idfk how to code help !
+# Hello! 😄
+
+My name is Faraz.
+I am studying Aerospace Engineering.
+
+yes ok bye lol
 
 <!--
 **Fxraz/fxraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
